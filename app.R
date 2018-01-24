@@ -5,6 +5,7 @@ library(maps)
 library(mapproj)
 library(dplyr)
 library(tidyverse)
+library(scales)
 
 # Load data ----
 dataDiamond <- diamonds
