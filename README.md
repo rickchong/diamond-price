@@ -1,4 +1,4 @@
 # diamond-price
-Run with the folloing command:
-library(shiny)
+Run with the folloing command:<br />
+library(shiny)<br />
 runGitHub( "diamond-price", "rickchong")
